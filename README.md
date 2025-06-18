@@ -109,7 +109,7 @@ semantic-book-recommender/
 
 ## Screenshots
 
-[Insert screenshot of Gradio dashboard here]
+![Preview](https://github.com/Sbahuddin1/Semantic-book-recommender/blob/master/Screenshot%202025-06-18%20035947.png)
 
 ## License
 
